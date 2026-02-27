@@ -6,6 +6,8 @@
 
 <h1 align="center">Deterministic, Self Healing Workflows (RPA 2.0)</h1>
 
+[English](./README.md) | [中文](./README-zh.md)
+
 [![GitHub stars](https://img.shields.io/github/stars/browser-use/workflow-use?style=social)](https://github.com/browser-use/workflow-use/stargazers)
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
 [![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://cloud.browser-use.com)
@@ -15,6 +17,13 @@
 ⚙️ **Workflow Use** is the easiest way to create and execute deterministic workflows with variables which fallback to [Browser Use](https://github.com/browser-use/browser-use) if a step fails. You just _show_ the recorder the workflow, we automatically generate the workflow.
 
 ❗ This project is in very early development so we don't recommend using this in production. Lots of things will change and we don't have a release schedule yet. Originally, the project was born out of customer demand to make Browser Use more reliable and deterministic.
+
+## Tutorial
+
+Chinese step-by-step tutorial modeled after learn-claude-code:
+
+- `README-zh.md`
+- `docs/zh/`
 
 ## 🚀 NEW: Generation Mode
 
